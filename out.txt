@@ -1,0 +1,4879 @@
+(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6475"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-30 15:20:40
+         EndTime = 2014-11-30 15:35:07
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1207"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-27 18:26:25
+         EndTime = 2014-11-27 18:42:28
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6549"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-27 08:04:28
+         EndTime = 2014-11-27 08:21:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6870"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-26 18:17:10
+         EndTime = 2014-11-26 18:36:16
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5802"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-26 08:06:20
+         EndTime = 2014-11-26 08:19:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6175"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-25 20:37:59
+         EndTime = 2014-11-25 20:43:52
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6175"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-25 19:07:56
+         EndTime = 2014-11-25 19:25:02
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7233"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-25 08:08:09
+         EndTime = 2014-11-25 08:17:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7266"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-24 19:01:58
+         EndTime = 2014-11-24 19:11:06
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6416"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-24 08:03:28
+         EndTime = 2014-11-24 08:19:40
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5680"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-23 16:37:39
+         EndTime = 2014-11-23 16:46:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6445"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-23 11:04:36
+         EndTime = 2014-11-23 11:16:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4963"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-20 18:29:58
+         EndTime = 2014-11-20 18:45:29
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4963"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-20 08:04:59
+         EndTime = 2014-11-20 08:17:15
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4963"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-19 18:54:19
+         EndTime = 2014-11-19 19:03:30
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6342"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-19 07:58:53
+         EndTime = 2014-11-19 08:11:50
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "9533"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-18 07:53:32
+         EndTime = 2014-11-18 08:06:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6605"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-17 18:12:07
+         EndTime = 2014-11-17 18:31:58
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4006"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-17 08:04:44
+         EndTime = 2014-11-17 08:19:27
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4783"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-14 08:11:14
+         EndTime = 2014-11-14 08:24:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6303"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-13 19:06:50
+         EndTime = 2014-11-13 19:21:10
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5947"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-12 18:43:52
+         EndTime = 2014-11-12 18:58:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7261"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-12 07:57:55
+         EndTime = 2014-11-12 08:15:15
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5616"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-11 18:10:16
+         EndTime = 2014-11-11 18:27:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3870"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-11 08:07:58
+         EndTime = 2014-11-11 08:20:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6673"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-10 19:09:40
+         EndTime = 2014-11-10 19:18:00
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7227"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-10 07:49:57
+         EndTime = 2014-11-10 08:05:12
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7250"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-07 17:30:06
+         EndTime = 2014-11-07 17:46:28
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6347"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-07 07:59:16
+         EndTime = 2014-11-07 08:12:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5671"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-06 18:55:57
+         EndTime = 2014-11-06 19:10:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6122"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-06 07:56:14
+         EndTime = 2014-11-06 08:12:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7071"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-05 18:44:12
+         EndTime = 2014-11-05 18:52:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3860"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-05 08:14:41
+         EndTime = 2014-11-05 08:30:52
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1454"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-04 19:05:32
+         EndTime = 2014-11-04 19:19:43
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6624"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-04 07:53:07
+         EndTime = 2014-11-04 08:08:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6624"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-03 20:55:02
+         EndTime = 2014-11-03 21:04:15
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6624"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-03 16:50:00
+         EndTime = 2014-11-03 17:02:40
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6624"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-11-03 08:07:58
+         EndTime = 2014-11-03 08:23:25
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4360"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-31 16:48:06
+         EndTime = 2014-10-31 17:03:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4360"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-31 07:59:01
+         EndTime = 2014-10-31 08:14:33
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "7371"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-30 18:44:22
+         EndTime = 2014-10-30 18:58:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7371"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-30 08:02:09
+         EndTime = 2014-10-30 08:13:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6329"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-29 19:53:04
+         EndTime = 2014-10-29 20:12:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4815"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-29 19:11:36
+         EndTime = 2014-10-29 19:23:55
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5221"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-29 08:08:29
+         EndTime = 2014-10-29 08:21:02
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5221"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-28 18:20:26
+         EndTime = 2014-10-28 18:37:35
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7009"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-28 08:08:39
+         EndTime = 2014-10-28 08:23:40
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7209"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-27 17:31:23
+         EndTime = 2014-10-27 17:47:11
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6154"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-27 07:56:11
+         EndTime = 2014-10-27 08:08:35
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6154"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-26 13:59:28
+         EndTime = 2014-10-26 14:21:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3870"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-25 12:43:40
+         EndTime = 2014-10-25 13:10:48
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6396"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-25 11:18:43
+         EndTime = 2014-10-25 11:34:04
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5675"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-24 15:01:44
+         EndTime = 2014-10-24 15:15:14
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7293"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-24 06:59:33
+         EndTime = 2014-10-24 07:13:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7239"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-23 22:00:20
+         EndTime = 2014-10-23 22:13:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7239"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-23 18:04:01
+         EndTime = 2014-10-23 18:29:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6891"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-23 06:55:46
+         EndTime = 2014-10-23 07:10:23
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2154"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-22 17:37:04
+         EndTime = 2014-10-22 17:51:22
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5725"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-22 07:00:20
+         EndTime = 2014-10-22 07:15:19
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5725"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-21 20:59:43
+         EndTime = 2014-10-21 21:07:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6198"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-21 07:03:18
+         EndTime = 2014-10-21 07:17:51
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6130"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-20 17:31:30
+         EndTime = 2014-10-20 17:45:58
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6993"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-20 07:08:26
+         EndTime = 2014-10-20 07:23:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5996"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-19 12:44:01
+         EndTime = 2014-10-19 12:55:23
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6161"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-18 11:18:12
+         EndTime = 2014-10-18 11:27:14
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5692"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-17 15:16:22
+         EndTime = 2014-10-17 15:27:18
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3647"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-17 07:00:28
+         EndTime = 2014-10-17 07:16:07
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6505"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-16 18:10:53
+         EndTime = 2014-10-16 18:26:07
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7072"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-16 07:01:34
+         EndTime = 2014-10-16 07:17:31
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6334"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-15 17:26:26
+         EndTime = 2014-10-15 17:47:34
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6192"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-15 07:12:36
+         EndTime = 2014-10-15 07:24:57
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1725"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-14 18:24:57
+         EndTime = 2014-10-14 18:39:30
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6843"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-14 07:00:48
+         EndTime = 2014-10-14 07:16:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6605"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-13 17:35:15
+         EndTime = 2014-10-13 17:49:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6533"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-13 07:00:31
+         EndTime = 2014-10-13 07:16:15
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5026"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-10 15:18:10
+         EndTime = 2014-10-10 15:42:29
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5026"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-10 07:09:17
+         EndTime = 2014-10-10 07:22:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7054"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-09 06:55:57
+         EndTime = 2014-10-09 07:10:39
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7054"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-08 17:29:04
+         EndTime = 2014-10-08 17:47:20
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6508"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-08 07:06:36
+         EndTime = 2014-10-08 07:21:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6441"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-07 17:04:36
+         EndTime = 2014-10-07 17:18:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7208"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-07 06:57:46
+         EndTime = 2014-10-07 07:19:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3751"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-06 07:08:08
+         EndTime = 2014-10-06 07:25:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "8164"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-05 15:36:17
+         EndTime = 2014-10-05 15:50:27
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3135"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-05 09:54:32
+         EndTime = 2014-10-05 10:07:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6677"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-02 17:23:24
+         EndTime = 2014-10-02 17:37:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6852"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-02 07:08:15
+         EndTime = 2014-10-02 07:23:27
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6496"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-01 17:23:11
+         EndTime = 2014-10-01 17:39:30
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6496"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-10-01 07:18:31
+         EndTime = 2014-10-01 07:30:07
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6136"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-30 19:22:51
+         EndTime = 2014-09-30 19:39:17
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6673"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-30 07:17:55
+         EndTime = 2014-09-30 07:34:54
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7014"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-29 17:00:56
+         EndTime = 2014-09-29 17:18:07
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7004"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-29 07:01:58
+         EndTime = 2014-09-29 07:16:00
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5887"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-11 17:40:31
+         EndTime = 2014-09-11 17:58:18
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6166"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-10 06:35:24
+         EndTime = 2014-09-10 06:48:04
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6416"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-09 17:10:39
+         EndTime = 2014-09-09 17:31:03
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7100"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-09 06:46:33
+         EndTime = 2014-09-09 07:03:30
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3742"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-08 18:27:27
+         EndTime = 2014-09-08 18:42:26
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7400"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-08 07:04:40
+         EndTime = 2014-09-08 07:19:12
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6676"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-07 00:43:32
+         EndTime = 2014-09-07 01:15:39
+         TripPrice = 
+            (Type_Price){
+               Value = 16
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "5629"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-06 23:58:35
+         EndTime = 2014-09-07 00:07:06
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6676"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-06 22:22:10
+         EndTime = 2014-09-06 22:33:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6389"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-06 19:18:46
+         EndTime = 2014-09-06 19:35:54
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6602"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-05 17:10:23
+         EndTime = 2014-09-05 17:27:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4225"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-05 07:19:31
+         EndTime = 2014-09-05 07:33:11
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1141"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-04 18:08:47
+         EndTime = 2014-09-04 18:29:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1141"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-04 07:06:24
+         EndTime = 2014-09-04 07:24:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6247"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-03 16:17:58
+         EndTime = 2014-09-03 16:33:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6884"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-03 07:04:23
+         EndTime = 2014-09-03 07:16:29
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5849"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-02 17:28:06
+         EndTime = 2014-09-02 17:44:14
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5983"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-02 06:56:54
+         EndTime = 2014-09-02 07:12:16
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6389"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-01 17:59:40
+         EndTime = 2014-09-01 18:14:23
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6389"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-01 07:18:35
+         EndTime = 2014-09-01 07:26:07
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6994"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-09-01 07:04:51
+         EndTime = 2014-09-01 07:11:54
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3742"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-28 17:44:55
+         EndTime = 2014-08-28 18:01:48
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5743"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-28 06:55:59
+         EndTime = 2014-08-28 07:09:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7292"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-27 07:04:46
+         EndTime = 2014-08-27 07:18:55
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7296"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-26 06:48:28
+         EndTime = 2014-08-26 07:05:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4623"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-18 17:19:58
+         EndTime = 2014-08-18 17:34:04
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4726"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-18 06:55:56
+         EndTime = 2014-08-18 07:10:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6343"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-15 15:27:28
+         EndTime = 2014-08-15 15:46:51
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6938"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-15 06:59:47
+         EndTime = 2014-08-15 07:12:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6438"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-14 18:44:11
+         EndTime = 2014-08-14 18:59:29
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6470"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-14 07:03:06
+         EndTime = 2014-08-14 07:15:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6431"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-13 17:40:22
+         EndTime = 2014-08-13 17:57:27
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5679"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-13 07:05:25
+         EndTime = 2014-08-13 07:18:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6179"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-12 18:03:29
+         EndTime = 2014-08-12 18:20:06
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5694"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-12 06:56:51
+         EndTime = 2014-08-12 07:11:38
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5699"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-11 19:23:22
+         EndTime = 2014-08-11 19:37:39
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "0191"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-11 17:30:41
+         EndTime = 2014-08-11 17:42:06
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5764"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-11 07:00:36
+         EndTime = 2014-08-11 07:14:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7045"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-07 07:03:33
+         EndTime = 2014-08-07 07:17:29
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7073"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-06 18:36:27
+         EndTime = 2014-08-06 18:56:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5926"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-06 06:54:19
+         EndTime = 2014-08-06 07:07:40
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "8126"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-05 17:43:37
+         EndTime = 2014-08-05 17:58:26
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5823"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-05 07:00:23
+         EndTime = 2014-08-05 07:17:39
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5878"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-04 17:30:54
+         EndTime = 2014-08-04 17:45:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5965"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-08-04 06:47:07
+         EndTime = 2014-08-04 07:01:57
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6382"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-30 06:51:28
+         EndTime = 2014-07-30 07:11:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6435"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-29 06:57:22
+         EndTime = 2014-07-29 07:09:39
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "5834"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-28 18:01:40
+         EndTime = 2014-07-28 18:16:34
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3346"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-28 07:00:15
+         EndTime = 2014-07-28 07:13:54
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5924"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-27 14:53:02
+         EndTime = 2014-07-27 15:06:30
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "0900"
+         MarkeName = "CallBike"
+         TownName = "Darmstadt"
+         StartTime = 2014-07-26 13:59:51
+         EndTime = 2014-07-26 14:16:23
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6449"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-26 13:09:34
+         EndTime = 2014-07-26 13:14:26
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6859"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-25 18:09:52
+         EndTime = 2014-07-25 18:18:10
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3870"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-25 07:14:57
+         EndTime = 2014-07-25 07:31:57
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7191"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-24 18:08:44
+         EndTime = 2014-07-24 18:22:16
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6502"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-24 06:58:33
+         EndTime = 2014-07-24 07:13:31
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1647"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-23 20:19:28
+         EndTime = 2014-07-23 20:27:55
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1647"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-23 18:05:28
+         EndTime = 2014-07-23 18:11:04
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1647"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-23 17:51:46
+         EndTime = 2014-07-23 18:03:00
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6462"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-23 07:10:52
+         EndTime = 2014-07-23 07:24:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6942"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-22 17:28:16
+         EndTime = 2014-07-22 17:43:52
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6952"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-22 07:06:42
+         EndTime = 2014-07-22 07:25:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6959"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-21 17:23:21
+         EndTime = 2014-07-21 17:38:11
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5872"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-21 06:56:15
+         EndTime = 2014-07-21 07:10:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7813"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-18 16:37:22
+         EndTime = 2014-07-18 16:54:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5704"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-18 06:51:33
+         EndTime = 2014-07-18 07:06:14
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6689"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-17 17:19:00
+         EndTime = 2014-07-17 17:34:52
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "5682"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-17 06:57:41
+         EndTime = 2014-07-17 07:11:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2453"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-16 16:56:55
+         EndTime = 2014-07-16 17:11:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5948"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-16 07:06:37
+         EndTime = 2014-07-16 07:20:54
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5948"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-15 23:03:33
+         EndTime = 2014-07-15 23:15:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5999"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-15 07:07:13
+         EndTime = 2014-07-15 07:20:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7229"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-14 17:08:22
+         EndTime = 2014-07-14 17:25:28
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5891"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-14 07:15:23
+         EndTime = 2014-07-14 07:29:40
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6103"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-12 10:29:50
+         EndTime = 2014-07-12 10:40:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5682"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-12 09:19:09
+         EndTime = 2014-07-12 09:24:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6689"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-11 15:11:00
+         EndTime = 2014-07-11 15:27:27
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6132"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-11 06:51:38
+         EndTime = 2014-07-11 07:03:28
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7286"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-10 17:25:46
+         EndTime = 2014-07-10 17:39:02
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6358"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-10 06:58:46
+         EndTime = 2014-07-10 07:12:31
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7298"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-09 17:35:51
+         EndTime = 2014-07-09 17:49:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7298"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-09 07:10:54
+         EndTime = 2014-07-09 07:26:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6437"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-08 17:44:45
+         EndTime = 2014-07-08 17:52:57
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1654"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-08 17:25:50
+         EndTime = 2014-07-08 17:32:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7261"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-08 07:07:51
+         EndTime = 2014-07-08 07:21:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7204"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-07 17:19:41
+         EndTime = 2014-07-07 17:35:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5980"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-07 06:59:12
+         EndTime = 2014-07-07 07:12:37
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "7226"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-04 14:51:02
+         EndTime = 2014-07-04 15:08:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5896"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-04 06:58:11
+         EndTime = 2014-07-04 07:10:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5816"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-03 22:51:52
+         EndTime = 2014-07-03 23:03:12
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6410"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-03 17:50:15
+         EndTime = 2014-07-03 18:04:50
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6648"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-03 07:00:18
+         EndTime = 2014-07-03 07:14:35
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6382"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-02 16:48:28
+         EndTime = 2014-07-02 17:02:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6952"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-02 07:01:44
+         EndTime = 2014-07-02 07:17:12
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7095"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-01 17:18:07
+         EndTime = 2014-07-01 17:33:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5823"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-07-01 06:54:07
+         EndTime = 2014-07-01 07:08:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6680"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-30 17:37:33
+         EndTime = 2014-06-30 17:57:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6613"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-30 06:56:43
+         EndTime = 2014-06-30 07:11:38
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "0042"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-27 15:33:32
+         EndTime = 2014-06-27 15:47:24
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5799"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-27 06:54:39
+         EndTime = 2014-06-27 07:09:19
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5728"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-26 16:08:35
+         EndTime = 2014-06-26 16:24:48
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5649"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-26 06:50:17
+         EndTime = 2014-06-26 07:05:40
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6596"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-25 17:22:09
+         EndTime = 2014-06-25 17:36:12
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5906"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-25 07:06:28
+         EndTime = 2014-06-25 07:21:15
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2636"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-24 17:06:33
+         EndTime = 2014-06-24 17:23:07
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2636"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-24 07:04:49
+         EndTime = 2014-06-24 07:19:43
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "0745"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-23 17:01:05
+         EndTime = 2014-06-23 17:16:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6193"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-23 07:00:33
+         EndTime = 2014-06-23 07:15:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7079"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-18 17:31:18
+         EndTime = 2014-06-18 17:48:24
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7363"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-18 06:49:17
+         EndTime = 2014-06-18 07:04:10
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6438"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-17 18:00:28
+         EndTime = 2014-06-17 18:12:20
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "0770"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-17 17:47:28
+         EndTime = 2014-06-17 17:48:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5962"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-17 07:02:08
+         EndTime = 2014-06-17 07:17:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6595"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-16 16:10:42
+         EndTime = 2014-06-16 16:32:48
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5926"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-16 06:57:41
+         EndTime = 2014-06-16 07:10:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6659"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-13 15:33:24
+         EndTime = 2014-06-13 15:52:11
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7201"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-13 07:00:49
+         EndTime = 2014-06-13 07:16:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6599"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-12 16:25:26
+         EndTime = 2014-06-12 16:41:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3375"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-12 07:00:19
+         EndTime = 2014-06-12 07:14:38
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6591"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-11 21:07:19
+         EndTime = 2014-06-11 21:17:29
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7057"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-11 06:54:20
+         EndTime = 2014-06-11 07:09:26
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5679"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-10 12:20:11
+         EndTime = 2014-06-10 12:37:55
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5679"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-10 07:02:51
+         EndTime = 2014-06-10 07:17:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6961"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-08 18:21:51
+         EndTime = 2014-06-08 18:34:19
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6445"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-06 07:10:50
+         EndTime = 2014-06-06 07:23:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5887"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-05 17:28:27
+         EndTime = 2014-06-05 17:43:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5887"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-05 07:03:26
+         EndTime = 2014-06-05 07:20:39
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6310"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-04 17:18:41
+         EndTime = 2014-06-04 17:33:18
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6310"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-04 07:07:45
+         EndTime = 2014-06-04 07:20:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7271"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-03 16:43:23
+         EndTime = 2014-06-03 16:56:55
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7271"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-03 07:03:00
+         EndTime = 2014-06-03 07:19:54
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6605"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-02 17:08:54
+         EndTime = 2014-06-02 17:26:02
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6131"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-02 07:00:22
+         EndTime = 2014-06-02 07:13:19
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5780"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-06-01 15:33:38
+         EndTime = 2014-06-01 15:49:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5634"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-30 07:18:26
+         EndTime = 2014-05-30 07:30:19
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6346"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-28 17:22:14
+         EndTime = 2014-05-28 17:39:19
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6346"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-28 07:05:34
+         EndTime = 2014-05-28 07:20:52
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7361"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-27 17:18:44
+         EndTime = 2014-05-27 17:33:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7361"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-27 07:05:10
+         EndTime = 2014-05-27 07:20:22
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7004"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-26 17:14:18
+         EndTime = 2014-05-26 17:34:17
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5926"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-26 06:52:50
+         EndTime = 2014-05-26 07:07:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6109"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-23 15:33:40
+         EndTime = 2014-05-23 15:48:11
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6417"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-23 07:11:27
+         EndTime = 2014-05-23 07:29:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5743"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-22 06:33:48
+         EndTime = 2014-05-22 06:46:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6918"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-21 17:17:12
+         EndTime = 2014-05-21 17:35:00
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6918"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-21 07:14:20
+         EndTime = 2014-05-21 07:29:58
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5809"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-20 16:56:11
+         EndTime = 2014-05-20 17:10:55
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "5809"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-20 07:09:31
+         EndTime = 2014-05-20 07:22:35
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6176"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-16 22:53:32
+         EndTime = 2014-05-16 23:06:18
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1946"
+         MarkeName = "CallBike"
+         TownName = "Darmstadt"
+         StartTime = 2014-05-16 15:29:22
+         EndTime = 2014-05-16 15:44:40
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1754"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-16 07:10:01
+         EndTime = 2014-05-16 07:24:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6694"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-15 17:42:33
+         EndTime = 2014-05-15 17:59:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7083"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-15 06:54:34
+         EndTime = 2014-05-15 07:09:02
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7052"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-13 22:29:39
+         EndTime = 2014-05-13 22:46:15
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6497"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-13 06:58:49
+         EndTime = 2014-05-13 07:14:34
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6906"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-12 20:01:42
+         EndTime = 2014-05-12 20:17:21
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6689"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-12 06:57:22
+         EndTime = 2014-05-12 07:14:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5976"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-09 14:52:08
+         EndTime = 2014-05-09 15:00:23
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1654"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-09 07:05:41
+         EndTime = 2014-05-09 07:21:28
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6612"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-07 16:52:42
+         EndTime = 2014-05-07 17:18:17
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6952"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-05-07 07:18:40
+         EndTime = 2014-05-07 07:33:41
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4623"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-30 18:29:57
+         EndTime = 2014-04-30 18:43:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4431"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-30 17:44:54
+         EndTime = 2014-04-30 18:01:26
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5906"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-30 07:06:35
+         EndTime = 2014-04-30 07:20:35
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5692"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-29 22:11:56
+         EndTime = 2014-04-29 22:18:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6549"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-29 11:13:40
+         EndTime = 2014-04-29 11:36:02
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6549"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-29 07:15:43
+         EndTime = 2014-04-29 07:28:16
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "5657"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-28 06:59:01
+         EndTime = 2014-04-28 07:16:28
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5983"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-25 15:35:33
+         EndTime = 2014-04-25 15:41:06
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1527"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-25 14:27:35
+         EndTime = 2014-04-25 14:36:21
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5832"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-25 07:18:44
+         EndTime = 2014-04-25 07:32:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5832"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-25 00:41:07
+         EndTime = 2014-04-25 00:55:26
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6334"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-24 07:10:44
+         EndTime = 2014-04-24 07:23:43
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6346"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-22 18:43:39
+         EndTime = 2014-04-22 18:52:57
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6505"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-22 07:09:56
+         EndTime = 2014-04-22 07:23:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1212"
+         MarkeName = "CallBike"
+         TownName = "Darmstadt"
+         StartTime = 2014-04-20 18:17:17
+         EndTime = 2014-04-20 18:26:58
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1421"
+         MarkeName = "CallBike"
+         TownName = "Darmstadt"
+         StartTime = 2014-04-19 18:29:32
+         EndTime = 2014-04-19 18:42:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5931"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-19 17:42:06
+         EndTime = 2014-04-19 17:55:39
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6503"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-17 16:40:43
+         EndTime = 2014-04-17 16:56:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6503"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-17 07:03:16
+         EndTime = 2014-04-17 07:16:35
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5923"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-16 18:00:05
+         EndTime = 2014-04-16 18:13:20
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5923"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-16 07:07:46
+         EndTime = 2014-04-16 07:21:24
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6175"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-15 18:39:47
+         EndTime = 2014-04-15 18:54:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6474"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-15 07:01:27
+         EndTime = 2014-04-15 07:14:25
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5818"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-14 19:00:04
+         EndTime = 2014-04-14 19:15:14
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5818"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-14 07:00:13
+         EndTime = 2014-04-14 07:16:10
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6863"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-11 15:32:02
+         EndTime = 2014-04-11 15:46:47
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "7813"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-11 07:04:46
+         EndTime = 2014-04-11 07:17:22
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6457"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-10 17:45:50
+         EndTime = 2014-04-10 18:00:07
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7025"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-10 07:12:37
+         EndTime = 2014-04-10 07:31:50
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6845"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-08 17:42:59
+         EndTime = 2014-04-08 18:01:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2125"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-08 07:12:46
+         EndTime = 2014-04-08 07:25:26
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4687"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-07 07:03:04
+         EndTime = 2014-04-07 07:16:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6895"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-06 11:31:57
+         EndTime = 2014-04-06 11:46:57
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5758"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-05 07:22:24
+         EndTime = 2014-04-05 07:34:51
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6648"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-05 07:19:26
+         EndTime = 2014-04-05 07:20:28
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2125"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-04 15:25:57
+         EndTime = 2014-04-04 15:45:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6435"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-04 07:12:24
+         EndTime = 2014-04-04 07:26:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7209"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-03 17:43:12
+         EndTime = 2014-04-03 17:57:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7260"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-03 07:16:54
+         EndTime = 2014-04-03 07:29:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7025"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-04-01 07:05:19
+         EndTime = 2014-04-01 07:19:20
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6122"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-31 17:52:25
+         EndTime = 2014-03-31 18:07:25
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5810"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-31 07:01:34
+         EndTime = 2014-03-31 07:15:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6845"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-26 08:04:56
+         EndTime = 2014-03-26 08:16:28
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5844"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-21 17:49:13
+         EndTime = 2014-03-21 18:01:23
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5863"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-21 07:38:38
+         EndTime = 2014-03-21 07:52:24
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "4623"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-13 18:48:43
+         EndTime = 2014-03-20 10:20:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "2137"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-13 08:11:31
+         EndTime = 2014-03-13 08:24:24
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7012"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-12 18:24:24
+         EndTime = 2014-03-12 18:39:37
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1725"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-12 08:15:29
+         EndTime = 2014-03-12 08:27:39
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1725"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-11 18:29:14
+         EndTime = 2014-03-11 18:46:57
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6913"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-11 08:03:50
+         EndTime = 2014-03-11 08:16:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6897"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-10 18:59:38
+         EndTime = 2014-03-10 19:16:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7071"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-10 08:11:38
+         EndTime = 2014-03-10 08:25:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5937"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-07 16:06:55
+         EndTime = 2014-03-07 16:23:35
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7265"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-07 07:59:37
+         EndTime = 2014-03-07 08:14:41
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6482"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-06 20:20:08
+         EndTime = 2014-03-06 20:32:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7973"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-06 07:51:22
+         EndTime = 2014-03-06 08:05:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6246"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-05 21:03:56
+         EndTime = 2014-03-05 21:11:01
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6246"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-05 18:55:15
+         EndTime = 2014-03-05 19:06:27
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6963"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-05 08:06:26
+         EndTime = 2014-03-05 08:18:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5966"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-04 18:07:57
+         EndTime = 2014-03-04 18:22:31
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5966"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-04 08:18:45
+         EndTime = 2014-03-04 08:33:21
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5672"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-03 14:51:42
+         EndTime = 2014-03-03 14:53:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5672"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-03 13:47:40
+         EndTime = 2014-03-03 13:51:27
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5672"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-03 13:21:55
+         EndTime = 2014-03-03 13:33:12
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5672"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-03-03 08:04:16
+         EndTime = 2014-03-03 08:20:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "5672"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-28 15:59:29
+         EndTime = 2014-02-28 16:15:20
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5672"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-28 09:47:30
+         EndTime = 2014-02-28 10:02:29
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7268"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-27 08:11:54
+         EndTime = 2014-02-27 08:27:43
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5642"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-26 07:03:31
+         EndTime = 2014-02-26 07:19:24
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5642"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-25 20:26:49
+         EndTime = 2014-02-25 20:28:19
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5642"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-25 19:16:01
+         EndTime = 2014-02-25 19:29:20
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6568"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-25 08:08:24
+         EndTime = 2014-02-25 08:22:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6568"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-24 21:37:26
+         EndTime = 2014-02-24 21:53:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6496"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-24 07:51:47
+         EndTime = 2014-02-24 08:05:34
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "9495"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-21 17:27:12
+         EndTime = 2014-02-21 17:42:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7297"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-21 08:04:56
+         EndTime = 2014-02-21 08:17:36
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6393"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-20 18:39:55
+         EndTime = 2014-02-20 18:55:18
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6393"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-20 07:59:00
+         EndTime = 2014-02-20 08:11:52
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5608"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-19 18:52:21
+         EndTime = 2014-02-19 19:06:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6444"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-19 08:03:04
+         EndTime = 2014-02-19 08:19:15
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6845"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-18 18:31:28
+         EndTime = 2014-02-18 18:46:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6501"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-18 08:00:49
+         EndTime = 2014-02-18 08:14:25
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6904"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-17 18:09:09
+         EndTime = 2014-02-17 18:30:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6845"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-17 08:05:18
+         EndTime = 2014-02-17 08:21:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "9495"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-14 17:10:51
+         EndTime = 2014-02-14 17:25:25
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "3067"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-14 08:05:16
+         EndTime = 2014-02-14 08:19:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7285"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-13 06:55:40
+         EndTime = 2014-02-13 07:05:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6504"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-12 18:04:46
+         EndTime = 2014-02-12 18:18:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7231"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-12 08:10:07
+         EndTime = 2014-02-12 08:24:24
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6585"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-11 18:12:33
+         EndTime = 2014-02-11 18:31:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6585"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-11 08:01:39
+         EndTime = 2014-02-11 08:17:11
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2290"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-10 07:46:47
+         EndTime = 2014-02-10 08:03:39
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6309"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-06 17:51:46
+         EndTime = 2014-02-06 18:04:09
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6309"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-02-06 07:34:49
+         EndTime = 2014-02-06 07:50:23
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5832"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-31 18:45:05
+         EndTime = 2014-01-31 19:00:32
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5832"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-31 12:50:46
+         EndTime = 2014-01-31 13:08:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5832"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-31 08:12:20
+         EndTime = 2014-01-31 08:26:37
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6595"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-30 18:22:48
+         EndTime = 2014-01-30 18:42:00
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6684"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-30 08:00:02
+         EndTime = 2014-01-30 08:14:03
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6303"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-29 19:15:38
+         EndTime = 2014-01-29 19:32:15
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5607"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-29 07:26:10
+         EndTime = 2014-01-29 07:41:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6667"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-28 19:58:22
+         EndTime = 2014-01-28 20:13:33
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5863"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-28 08:14:01
+         EndTime = 2014-01-28 08:33:20
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5663"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-27 19:28:56
+         EndTime = 2014-01-27 19:43:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5663"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-27 08:07:58
+         EndTime = 2014-01-27 08:22:50
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6972"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-24 08:14:44
+         EndTime = 2014-01-24 08:30:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5985"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-23 19:24:20
+         EndTime = 2014-01-23 19:40:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6347"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-23 08:03:48
+         EndTime = 2014-01-23 08:18:52
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6187"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-22 19:33:04
+         EndTime = 2014-01-22 19:48:02
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5887"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-22 08:11:20
+         EndTime = 2014-01-22 08:24:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5616"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-21 19:18:42
+         EndTime = 2014-01-21 19:33:44
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6585"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-21 08:14:36
+         EndTime = 2014-01-21 08:30:06
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6896"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-20 19:26:24
+         EndTime = 2014-01-20 19:41:26
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6310"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-19 02:28:48
+         EndTime = 2014-01-19 02:44:56
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6310"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-18 19:56:01
+         EndTime = 2014-01-18 20:21:38
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5704"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-17 19:50:41
+         EndTime = 2014-01-17 19:58:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "8098"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-17 19:14:18
+         EndTime = 2014-01-17 19:41:55
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6116"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-17 17:36:00
+         EndTime = 2014-01-17 17:51:17
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6116"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-17 08:19:24
+         EndTime = 2014-01-17 08:35:49
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2137"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-17 08:13:54
+         EndTime = 2014-01-17 08:17:55
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2137"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-16 19:19:02
+         EndTime = 2014-01-16 19:33:05
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7207"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-15 18:27:34
+         EndTime = 2014-01-15 18:42:04
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1009"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-15 08:11:17
+         EndTime = 2014-01-15 08:27:48
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6671"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-14 18:33:12
+         EndTime = 2014-01-14 18:48:00
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6683"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-14 08:27:51
+         EndTime = 2014-01-14 08:36:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "5797"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-13 18:52:53
+         EndTime = 2014-01-13 19:10:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5608"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-13 08:22:14
+         EndTime = 2014-01-13 08:36:48
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5608"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-12 18:00:30
+         EndTime = 2014-01-12 18:09:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7027"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-12 15:49:10
+         EndTime = 2014-01-12 15:53:45
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7319"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-11 15:13:25
+         EndTime = 2014-01-11 15:20:08
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "1030"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-10 18:24:49
+         EndTime = 2014-01-10 18:39:54
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7004"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-10 08:03:51
+         EndTime = 2014-01-10 08:19:58
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7360"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-09 18:40:31
+         EndTime = 2014-01-09 18:51:34
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7360"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-09 18:24:40
+         EndTime = 2014-01-09 18:31:40
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6869"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-09 09:07:49
+         EndTime = 2014-01-09 09:20:13
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6432"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-08 22:37:55
+         EndTime = 2014-01-08 22:43:33
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5818"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-08 19:36:15
+         EndTime = 2014-01-08 19:50:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "7117"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-08 08:18:30
+         EndTime = 2014-01-08 08:32:20
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6056"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-07 18:51:59
+         EndTime = 2014-01-07 19:06:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6056"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-07 11:00:57
+         EndTime = 2014-01-07 11:11:59
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6056"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-07 10:46:46
+         EndTime = 2014-01-07 10:55:30
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6987"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-07 08:11:02
+         EndTime = 2014-01-07 08:26:41
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "6952"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-06 18:57:23
+         EndTime = 2014-01-06 19:15:11
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "3004"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-06 08:26:01
+         EndTime = 2014-01-06 08:39:46
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "2667"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-04 13:43:42
+         EndTime = 2014-01-04 13:50:43
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, (Type_ListCompletedTripsResponse){
+   TripData[] = 
+      (Type_TripData){
+         BikeNumber = "6432"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-03 17:35:57
+         EndTime = 2014-01-03 17:51:42
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5963"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-03 08:37:53
+         EndTime = 2014-01-03 08:56:34
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+      (Type_TripData){
+         BikeNumber = "5963"
+         MarkeName = "CallBike"
+         TownName = "Frankfurt am Main"
+         StartTime = 2014-01-02 17:53:35
+         EndTime = 2014-01-02 18:11:53
+         TripPrice = 
+            (Type_Price){
+               Value = 0
+               Currency = "EUR"
+            }
+      },
+ })(200, )(200, )(200, )(200, )(200, )(200, )(200, )(200, )

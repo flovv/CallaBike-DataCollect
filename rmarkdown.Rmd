@@ -1,0 +1,146 @@
+---
+title: "Analyzing Bike Rides"
+author: "FT"
+date: "Sunday, January 25, 2015"
+output: html_document
+---
+
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(stringr)
+library(lubridate)
+library(ggplot2)
+library(plyr)
+library(grid)
+library(gridExtra)
+library(stargazer)
+raw <- read.csv("out.txt")
+raw$V1 <- as.character(raw$X.200)
+```
+
+I pulled last year's data from the "CallaBike"-SOAP API.
+
+```{r,}
+length(grep("StartTime", raw$V1,)) 
+```
+
+So it looks like  did 403 trips using a Call a Bike in 2014.
+Next we need some data cleaning.
+```{r, echo=FALSE}
+trips <- data.frame(cbind(raw[grep("StartTime", raw$V1,),]$V1, raw[grep("EndTime", raw$V1,),]$V1) )
+
+trips$start = str_trim(str_split_fixed(trips$X1, "=", 2)[,2])
+trips$end = str_trim(str_split_fixed(trips$X2, "=", 2)[,2])
+
+#as.POSIXlt
+trips$startT <- as.POSIXct(trips$start, format="%Y-%m-%d %H:%M:%S", tz = "CET")
+trips$endT <- as.POSIXct(trips$end, format="%Y-%m-%d %H:%M:%S")
+
+## summertime!
+#interv <- as.interval(as.Date("30.03.2014", "%d.%m.%Y"), as.Date("26.10.2014", "%d.%m.%Y"))
+daylight <- as.interval(ymd_hm("2014-03-30 00:03"), ymd_hm("2014-10-26 24:23"))
+
+#trips$daylight <- ifelse(trips$startT %within% daylight, 1,0)
+
+trips[trips$startT %within% daylight,]$startT <- trips[trips$startT %within% daylight,]$startT +60*60
+trips[trips$startT %within% daylight,]$endT <- trips[trips$startT %within% daylight,]$endT +60*60
+
+trips$driveTime <- (trips$endT - trips$startT )/ 60 
+trips$mon<- format(trips$startT, "%m %b")
+trips$wday <- format(trips$startT, "%w %a")
+trips$hour <- hour(trips$startT)
+## morning trips!
+#table(trips$hour)
+trips$morning <- ifelse(trips$hour %in% c(7,8),1,0)
+trips$evening <- ifelse(trips$hour %in% c(15,16,17,18,19,20),1,0)
+## remove
+print("MAX drive time:")
+max(trips$driveTime)  #Time difference of 9571.433 mins
+
+trips <- trips[trips$driveTime <60,]
+trips$dt <- as.numeric(trips$driveTime)
+
+trips$timeZ <- "rest"
+trips$timeZ <-ifelse(trips$evening==1, "evening", trips$timeZ)
+trips$timeZ <-ifelse(trips$morning==1, "morning", trips$timeZ)
+```
+remove an unreasonable high drive time. Next we will get an initial glimpse at the data.
+
+```{r, echo=FALSE, message=FALSE}
+p1=ggplot(trips, aes(hour)) + geom_bar() + ggtitle("# trips hour") 
+
+p2=ggplot(trips, aes(wday)) + geom_bar() + ggtitle("# trips weekday") + theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+p3=ggplot(trips, aes(mon)) + geom_bar() + ggtitle("# trips month")+ theme(axis.text.x = element_text(angle = 90, hjust = 1))
+grid.arrange(p1, p2, p3, nrow=1)
+```
+
+We see a clear pattern of high usage during the week and at commuting hours.
+
+```{r, echo=FALSE, message=FALSE}
+ggplot(trips, aes(timeZ, dt  )) + geom_boxplot() + xlab("") + ylab("commute time")
+
+
+```
+
+Commute times are basically the same for the morning/evening trips.
+
+```{r, echo=FALSE, message=FALSE}
+ggplot(trips, aes(mon, dt, group=mon )) + geom_boxplot()
+```
+
+Commute times did not change over the year. (some ups and downs -but it's basically stable.)
+
+According to google maps the distance is 4.9km. Which makes a total of
+```{r, echo=FALSE, message=FALSE}
+nrow(trips[trips$evening==1 || trips$morning==1,]) *4.9
+```
+KM in 2014.
+at an average speed of:
+
+```{r, echo=FALSE, message=FALSE}
+ 4.9/ mean(trips[trips$evening==1 || trips$morning==1,]$dt) *60
+```
+
+```{r, echo=FALSE, message=FALSE}
+trips$date <- as.Date(trips$startT)
+working <- trips[trips$morning ==1,]
+working <- merge(working, trips[trips$evening ==1,], by=c("date"))
+working <- working[,c("startT.x", "endT.x", "dt.x", "startT.y", "endT.y", "dt.y")]
+
+working$wt <- working$startT.y -working$endT.x
+working$wt <- as.numeric(working$wt) ## in hours
+working$mon<- format(working$startT.x, "%m %b")
+working$wday <- format(working$startT.x, "%w %a")
+```
+As this data indicates starting and ending of commutes, we can calculate the time spend at work.
+
+```{r, echo=FALSE, message=FALSE}
+ggplot(working, aes(x=wt, group=wday, fill=wday)) + geom_density(alpha=.3) + xlab("time spend at work in hours")
+mean(working$wt)
+```
+Looks like an easy 50hours week (on average). With most the time being at work from monday till tuesday.
+
+```{r, echo=FALSE, message=FALSE}
+ggplot(working, aes(y=wt, x=mon)) +geom_boxplot()  + ylab("time spend at work in hours") + theme(axis.text.x = element_text(angle = 90, hjust = 1))
+lm <- lm(wt~wday+mon+dt.x+dt.y, data=working)
+lm1 <- lm(wt~wday+mon, data=working)
+lm3 <- lm(dt.y~wday+mon+wt, data=working)
+```
+
+And finally some regression model ;)
+
+```{r,results='asis'}
+stargazer(lm1, lm,  type = "html", title="Explain time spend at work.")
+```
+
+why is time spend at work negatively correlated with drive time?
+
+```{r,results='asis'}
+lm3 <- lm(dt.y~wt, data=working)
+lm4 <- lm(dt.y~wt+wday, data=working)
+lm5 <- lm(dt.y~wt+wday +mon, data=working)
+
+stargazer(lm3,lm4,lm5,  type = "html", title="Explain commute time back from work.")
+```
